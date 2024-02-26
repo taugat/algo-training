@@ -1,0 +1,4 @@
+plugins {
+	eclipse
+	java
+}
